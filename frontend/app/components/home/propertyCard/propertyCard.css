@@ -1,0 +1,15 @@
+.cardWrapper.ant-card-bordered{
+    border: none;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.ant-card-body{
+    padding:20px 4px !important;
+}
+
+.converImg {
+    border-radius: 20px !important;
+    height: 350px;
+    width: 450px !important;
+}

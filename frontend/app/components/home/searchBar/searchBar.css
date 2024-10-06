@@ -1,0 +1,18 @@
+  .selectDropdwn {
+    height: 50px !important;
+    width: 200px !important;
+  }
+
+  .searchBtn{
+    margin-right: 0px !important;
+  }
+
+  .plusBtn.ant-btn{
+    width: 50px !important;
+    background-color: #2351a6;
+  }
+  
+  .custom-button {
+    height: 50px !important;
+  }
+  
